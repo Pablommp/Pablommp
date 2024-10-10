@@ -2,6 +2,8 @@
 <div align="center">
 <img src="https://github.com/Pablommp/Pablommp/blob/main/github-header-image.png" align="center" style="width: 80%" />
 </div>
+
+<h3>I am a development student, who is starting out in the world of programming.</h3>
   
 <h3 align="left">Contact:</h3>  
 <p align="left">  
