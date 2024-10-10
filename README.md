@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Pablommp/Pablommp/github-header-image.png" align="center" style="width: 80%" />
+<img src="https://github.com/Pablommp/Pablommp/blob/main/github-header-image.png" align="center" style="width: 80%" />
 </div>
   
 <h3 align="left">Connect with me:</h3>  
