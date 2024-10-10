@@ -3,7 +3,7 @@
 <img src="https://github.com/Pablommp/Pablommp/blob/main/github-header-image.png" align="center" style="width: 80%" />
 </div>
 
-<h1>I am a development student, who is starting out in the world of programming.</h1>
+<h5>I am a development student, who is starting out in the world of programming.</h5>
   
 <h3 align="left">Contact:</h3>  
 <p align="left">  
