@@ -7,7 +7,12 @@
   
 <h3 align="left">Contact:</h3>  
 <p align="left">  
-<a href="https://linkedin.com/in/pablo malcom martin peña" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo malcom martin peña" height="30" width="40" /></a>  
+<a href="https://es.linkedin.com/in/pablo-malcom-martin-pe%C3%B1a-688656242" target="_blank">
+    <img src="https://badgen.net/badge/LinkedIn/Pablo%20Malcom%20Martin%20Pe%C3%B1a/FFA500?icon=linkedin" alt="LinkedIn Badge">
+</a>
+  <a href="mailto:pablommp19@gmail.com" target="_blank">
+    <img src="https://badgen.net/badge/Email/pablommp19@gmail.com/28a745?icon=mail" alt="Email Badge">
+</a>
 </p>  
   
 <h3 align="left">Languages:</h3>  
