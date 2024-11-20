@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/Pablommp/Pablommp/blob/main/github-header-image.png" align="center" style="width: 100% " />
+<img src="https://github.com/Pablommp/Pablommp/blob/main/github-header-image2.png" align="center" style="width: 100% " />
 
 <h5>I am a development student, who is starting out in the world of programming.</h5>
 </div>
